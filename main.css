@@ -1,0 +1,46 @@
+html, body {
+  padding:  0;
+  margin: 0;
+}
+body {
+  background-color:#888;
+  font-family: ;
+  font-size:;
+  background-position:;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-image:  url(http://www.theinquirer.net/IMG/698/314698/open-source-270x167.jpg?1434433256);
+  background-size: cover;
+  height: 400px;
+}
+nav{
+  float: bottom;
+}
+nav li{
+  display: inline;
+}
+header {
+  height: ;
+  padding: ;
+  margin: 30px;
+}
+img {
+  width: 400px;
+  height: 400px;
+}
+form {  
+  margin: 50px 500px 500px 500px;
+}
+form label, form button {
+  float: left;
+  clear: left;
+  max-width: 200em;
+  margin: .5em;
+  text-align: left;
+}
+form input {
+  float: left;
+}
+textarea{
+  max-width: 200em;
+}
